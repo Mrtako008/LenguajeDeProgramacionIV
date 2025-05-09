@@ -8,3 +8,5 @@ Ingenieria en sistema computacionales
 Requerimientos
 
 jdk21
+
+inteliJi
